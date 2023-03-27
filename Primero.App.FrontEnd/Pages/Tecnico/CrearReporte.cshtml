@@ -1,0 +1,16 @@
+@page
+@model MyApp.Namespace.CrearReporteModel
+@{
+}
+<img src="/Imagenes/iconreporte.png" alt="imagen" width="10%" height="10%" align="left" /><h1>Crear Reporte</h1>
+<form method="post">
+    <br>
+    <center>
+    <h3>Descripción Del Reporte</h3>
+    <br>
+    <p><input asp-for="@Model.reporte.Descripcion" placeholder="agregar descripción"></p>
+    <p><input asp-for="@Model.estacion.Codigo" placeholder="Codigo Estacion"></p>
+    <p><input type="submit" value="Crear Reporte" asp-page-handler="CrearReporte"></p>
+    </center>
+
+</form>

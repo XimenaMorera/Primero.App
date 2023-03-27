@@ -1,0 +1,20 @@
+﻿@page
+@model MyApp.Namespace.AdminModel
+@{
+}
+<center><img src="/Imagenes/newUser.png" alt="imagen" width="20%" height="20%" /></center>
+<h1>ADMINISTRADORES</h1>
+<h3>DATOS DE VALIDACIÓN</h3>
+<form method="post">
+    <!--<p>ingrese password<input type="text" name="PassAdmin"></p>-->
+    <p><input asp-for="@Model.administrador.Cedula" placeholder="Cedula Administrador"></p>
+    <p><input asp-for="@Model.administrador.Password" placeholder="Password"></p>
+    <!--<select name="SelecRoll">
+        <option value="AdminTecnico">Jefe Tecnico</option>
+        <option value="AdminRh">Recursos humanos</option>
+    </select>-->
+    <p><input type="submit" value="validar" asp-page-handler="Enlace"></p>
+</form>
+<!--<a asp-page="/Admin/CrearEstacion">Crear nueva Estacion</a>-->
+<a asp-page="/Admin/CrearTecnico">Crear Nuevo Tecnico</a>
+<a asp-page="/Admin/CrearCoordinador">Crear Nuevo Coordinador</a>

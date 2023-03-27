@@ -1,0 +1,613 @@
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.exe
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.json
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.dev.json
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.input.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.output.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorCoreGenerate.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.Manifest.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.xml
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.genruntimeconfig.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CopyComplete
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.exe
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.dev.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.input.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.output.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorCoreGenerate.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.Manifest.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.xml
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.genruntimeconfig.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CopyComplete
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Admin.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearEstacion.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 6\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearTecnico.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.exe
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.dev.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.input.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.output.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorCoreGenerate.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Admin.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearEstacion.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearTecnico.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.Manifest.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.xml
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.genruntimeconfig.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CopyComplete
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Persistencia.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Persistencia.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.exe
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.dev.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Persistencia.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Persistencia.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.input.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.output.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorCoreGenerate.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Admin.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearEstacion.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearTecnico.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CopyComplete
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.Manifest.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.xml
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.genruntimeconfig.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearCoordinador.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.exe
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.dev.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Persistencia.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Persistencia.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.input.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.output.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorCoreGenerate.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Admin.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearCoordinador.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearEstacion.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearTecnico.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CopyComplete
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.Manifest.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.xml
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.genruntimeconfig.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Coordinador\Coordinador.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnico\Tecnico.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Coordinador\ConsCoord.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.exe
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.dev.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Persistencia.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Persistencia.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.input.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.output.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorCoreGenerate.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Admin.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearCoordinador.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearEstacion.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearTecnico.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Coordinador\ConsCoord.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Coordinador\Coordinador.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnico\Tecnico.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CopyComplete
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.Manifest.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.xml
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.genruntimeconfig.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnico\CrearReporte.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csprojAssemblyReference.cache
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfoInputs.cache
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfo.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cache
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.exe
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.deps.json
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.json
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.dev.json
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Dominio.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Persistencia.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Persistencia.pdb
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Dominio.pdb
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.input.cache
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.output.cache
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorCoreGenerate.cache
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Admin.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearCoordinador.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearEstacion.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearTecnico.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Coordinador\ConsCoord.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Coordinador\Coordinador.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnico\CrearReporte.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnico\Tecnico.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cache
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CopyComplete
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.Manifest.cache
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.xml
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.genruntimeconfig.cache
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.exe
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.deps.json
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.json
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.runtimeconfig.dev.json
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Dominio.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Persistencia.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Persistencia.pdb
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\bin\Debug\netcoreapp3.1\Primero.App.Dominio.pdb
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csprojAssemblyReference.cache
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfoInputs.cache
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.AssemblyInfo.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cache
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorAssemblyInfo.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.input.cache
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.TagHelpers.output.cache
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorCoreGenerate.cache
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Admin.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearCoordinador.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearEstacion.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\CrearTecnico.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Coordinador\ConsCoord.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Coordinador\Coordinador.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnico\CrearReporte.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnico\Tecnico.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cache
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.RazorTargetAssemblyInfo.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.Views.pdb
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.csproj.CopyComplete
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.Manifest.cache
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\Primero.App.FrontEnd.StaticWebAssets.xml
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.pdb
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.FrontEnd\obj\Debug\netcoreapp3.1\Primero.App.FrontEnd.genruntimeconfig.cache

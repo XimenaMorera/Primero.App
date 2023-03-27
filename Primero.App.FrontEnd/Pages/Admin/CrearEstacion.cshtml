@@ -1,0 +1,54 @@
+@page
+@model MyApp.Namespace.CrearEstacionModel
+@{
+}
+<img src="/Imagenes/Iconestacion.jpg" alt="imagen" width="15%" height="15%" align="left" /><h1>Crear Nueva Estación Meteorológica</h1>
+
+
+<body>
+    <div class="ContenedorEstacion">
+        <div class="parteEs parteEsta">
+            <h3> Ingrese Información De La Nueva Estación</h3>
+            <section id="DatEstacion">
+                <form method="post">
+                    <p><input asp-for="@Model.estacion.Codigo" placeholder="Codigo Estacion"></p>
+                    <!--<h4>datos personal</h4>
+                     <p>ingrese tecnico <input type="text" name="TecEstacion"></p>
+                     <p>ingrese personal monitoreo <input type="text" name="CoorEstacion"></p>-->
+                    <h4>Fecha Montaje</h4>
+                    <p> <input asp-for="@Model.estacion.FechaMontaje" placeholder="Fecha Montaje"></p>
+                    <h4>Datos Georeferenciación</h4>
+                    <p> <input asp-for="@Model.estacion.Latitud" placeholder="latitud"></p>
+                    <p> <input asp-for="@Model.estacion.Longitud" placeholder="longitud"></p>
+                    <p> <input asp-for="@Model.estacion.Municipio" placeholder="Municipio"></p>
+                    <p> <input asp-for="@Model.estacion.Departamento" placeholder="departamento"></p>
+                    <p><input type="submit" value="Crear Estación" asp-page-handler="CrearEstacion"></p>
+                </form>
+            </section>
+        </div>
+        <div class="parteEs partegeo">
+            <section id="GeoEstacion">
+                <form method="post">
+                    <br>
+                    <h3>Asignación de Personal</h3>
+                    <br>
+                    <p><input asp-for="@Model.estacion.Codigo" placeholder="Codigo estacion para asignar"></p>
+                    <p><input asp-for="@Model.tecnico.Cedula" placeholder="Cedula tecnico"></p>
+                    <p><input asp-for="@Model.coordinador.Cedula" placeholder="Cedula coordinador"></p>
+                    <!-- <p>ingrese latitud <input type="text" name="LatEstacion"></p>
+                    <p>ingrese longitud <input type="text" name="LongEstacion"></p>
+                    <p>ingrese municipio <input type="text" name="MunEstacion"></p>
+                     <p>ingrese departamento <input type="text" name="DepEstacion"></p>-->
+                    <p><input type="submit" value="Asignar Personal" asp-page-handler="AsignarPersonal"></p>
+
+                </form>
+                <h4>@Model.idTecnico</h4>
+                <h4>@Model.msj</h4>
+                <h4>@Model.idCoordinador</h4>
+                <h4>@Model.msj2</h4>
+
+            </section>
+
+        </div>
+    </div>
+</body>

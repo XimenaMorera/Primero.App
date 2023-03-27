@@ -1,0 +1,14 @@
+@page
+@model MyApp.Namespace.CrearTecnicoModel
+@{
+}
+<h1>Crear Nuevo Tecnico</h1>
+<h3> ingrese información del nuevo Tecnico</h3>
+<form method="post">
+    <p><input asp-for="@Model.tecnico.Cedula" placeholder="Cedula de Nuevo Tecnico"></p>
+    <p><input asp-for="@Model.tecnico.Nombre" placeholder="Nombre de Nuevo Tecnico"></p>
+    <p><input asp-for="@Model.tecnico.Apellido" placeholder="Apellido de Nuevo Tecnico"></p>
+    <p><input asp-for="@Model.tecnico.Telefono" placeholder="Telefono de Nuevo Tecnico"></p>
+    <p><input asp-for="@Model.tecnico.TarjetaProfesional" placeholder="Trajeta Profesional de Nuevo Tecnico"></p>
+    <p><input type="submit" value="crear nuevo tecnico" asp-page-handler="CrearTecnico"></p>
+</form>

@@ -1,0 +1,99 @@
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 2\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 2\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 2\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 2\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 2\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 2\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 2\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 2\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 2\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 3\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 3\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 3\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 3\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 3\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 3\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 3\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 3\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 3\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 4\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 4\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 4\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 4\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 4\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 4\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 4\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 4\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 4\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 5\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 5\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 5\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 5\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 5\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 5\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 5\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 5\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 5\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\PRUEBA\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\EJEMPLO 7\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 1\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 2\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.deps.json
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csprojAssemblyReference.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfoInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfo.cs
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\HAMILTON\CICLO 3\GRUPO 54\INTEGRACION 3\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.deps.json
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfo.cs
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\Users\Ximena\Desktop\Profe\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.deps.json
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.Dominio\bin\Debug\netstandard2.0\Primero.App.Dominio.pdb
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.AssemblyInfo.cs
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.dll
+C:\Users\Ximena\Desktop\c#\Primero.App\Primero.App.Dominio\obj\Debug\netstandard2.0\Primero.App.Dominio.pdb

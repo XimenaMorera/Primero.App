@@ -1,0 +1,10 @@
+﻿@page
+@model MyApp.Namespace.TecnicoModel
+@{
+}
+<h1>Ingrese Datos Tecnico</h1>
+<form method="post">
+    <p><input asp-for="@Model.tecnico.Cedula" placeholder="Cedula de tecnico"></p>
+    <p><input asp-for="@Model.tecnico.TarjetaProfesional" placeholder="Tarjeta Profesional"></p>
+    <p><input type="submit" value="Login" asp-page-handler="LoginTecnico"></p>
+</form>

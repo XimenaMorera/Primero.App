@@ -1,0 +1,15 @@
+@page
+@model MyApp.Namespace.CrearCoordinadorModel
+@{
+}
+<h1>Crear Nuevo Coordinador</h1>
+<h3> ingrese información del nuevo Cordinador</h3>
+<form method="post">
+    <p><input asp-for="@Model.coordinador.Cedula" placeholder="Cedula de Nuevo Coordinador"></p>
+    <p><input asp-for="@Model.coordinador.Nombre" placeholder="Nombre de Nuevo Coordinador"></p>
+    <p><input asp-for="@Model.coordinador.Apellido" placeholder="Apellido de Nuevo Coordinador"></p>
+    <p><input asp-for="@Model.coordinador.Telefono" placeholder="Telefono de Nuevo Coordinador"></p>
+    <p><input asp-for="@Model.coordinador.Password" placeholder="Password de Nuevo Coordinador"></p>
+    <p><input asp-for="@Model.coordinador.Roll" placeholder="Roll de Nuevo Coordinador"></p>
+    <p><input type="submit" value="crear nuevo Coordinador" asp-page-handler="CrearCoordinador"></p>
+</form>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpsd0Sd0RYVwQkK2W5i9Xnjjjdoaa6ebyY4Yp68KmUUuJ6TMQXZvD9bVtAJYhfWg/o7/uc1XlQah6+VRSRKINg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ximena\\Desktop\\c#\\Primero.App\\Primero.App.Dominio\\Primero.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ximena\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ximena\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

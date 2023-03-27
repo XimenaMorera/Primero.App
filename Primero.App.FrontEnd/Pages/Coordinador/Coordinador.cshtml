@@ -1,0 +1,11 @@
+﻿@page
+@model MyApp.Namespace.CoordinadorModel
+@{
+}
+<center><img src="/Imagenes/login.png" alt="imagen" width="15%" height="15%" /></center>
+<h1>Personal Monitoreo</h1>
+<form method="post">
+    <p><input asp-for="@Model.coordinador.Cedula" placeholder="Cedula"></p>
+    <p><input asp-for="@Model.coordinador.Password" placeholder="Password"></p>
+    <p><input type="submit" value="Login" asp-page-handler="Validacion"></p>
+</form>

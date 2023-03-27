@@ -1,0 +1,59 @@
+@page
+@model MyApp.Namespace.ConsCoordModel
+@{
+}
+<h1>Consulta Estacion</h1>
+<form method="post">
+    <p><input asp-for="@Model.estacion.Codigo" placeholder="Codigo estacion"></p>
+    <p><input type="submit" value="Consultar" asp-page-handler="ConsEsta"></p>
+</form>
+<form method="post">
+    <p><input asp-for="@Model.estacion.Codigo" placeholder="Codigo estacion"></p>
+    <p><input type="submit" value="lectura dato" asp-page-handler="LectDato"></p>
+</form>
+<!--<p>codigo</p>
+<h5>@Model.codigoE</h5>
+<p>latitud</p>
+<h5>@Model.latitudE</h5>
+<p>longitud</p>
+<h5>@Model.longitudE</h5>
+<p>municipio</p>
+<h5>@Model.municipioE</h5>
+<p>departamento</p>
+<h5>@Model.departamentoE</h5>-->
+
+<center>
+<table class="steelBlueCols">
+<thead>
+<tr>
+<th>Codigo</th>
+<th>Latitud</th>
+<th>Longitud</th>
+<th>Municipio</th>
+<th>Departamento</th>
+<th>Tecnico Asignado</th>
+<th>Reporte</th>
+
+</tr>
+</thead>
+<tfoot>
+<tr>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td>@Model.codigoE</td>
+<td>@Model.longitudE</td>
+<td>@Model.longitudE</td>
+<td>@Model.municipioE</td>
+<td>@Model.departamentoE</td>
+<!--<td>@Model.nombreT <h5>@Model.apellidoT</h5>  <h5>@Model.telefonoT</td>-->
+<td></td><h5>@Model.descripcionR</h5></p>
+<h5>@Model.valorD</h5>
+<h5>@Model.tipoD</h5>
+<h5>@Model.msj</h5></td>
+</tr>
+</tbody>
+</table>
+</center>
+<p><h5>@Model.msj</h5></p>
